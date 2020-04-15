@@ -1,38 +1,32 @@
-
-
 body {
-  font-family: sans-serif;
-}
-
-p {
-    color: white;
-  padding-left: 20px;
-  padding-right: 100px;
-}
-
-ol {
-      color: white;
-}
+  font-family: sans-serif; }
 
 h2 {
-    color: white;
-  padding-left: 20px;
-}
+  color: white;
+  padding-left: 20px; }
 
 h3 {
-    color: white;
-    padding-left: 20px;
-}
+  color: white;
+  padding-left: 20px; }
+
+p {
+  color: white;
+  padding-left: 20px;
+  padding-right: 100px; }
+
+ol {
+  color: white; }
 
 a {
-		color: white;
-}
+  color: white; }
 
 .img-box {
-    width: 30%;
-    height: 30%;
-    margin: 0;
-    }
+  width: 30%;
+  height: 30%;
+  margin: 0;
+  border-color: white;
+  border-style: solid;
+  border-width: thick; }
 
 .contain {
-    object-fit: contain; }
+  object-fit: contain; }

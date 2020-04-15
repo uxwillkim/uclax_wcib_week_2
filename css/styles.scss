@@ -1,40 +1,41 @@
+
+
 body {
 	font-family: sans-serif;
+}
 
-	h2 {
+h2 {
 		color: white;
 		padding-left: 20px;
-	}
+}
 
-	h3 {
+h3 {
 		color: white;
 		padding-left: 20px;
-	}
+}
 
-	p {
+p {
 		color: white;
 		padding-left: 20px;
 		padding-right: 100px;
-		}
+}
 
-	ol {
+ol {
 		color: white;
+}
 
-	a {
+a {
 		color: white;
-	}
+}
 
-	.background {
-  background-image: url("../images/stars_background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-	}
-
-	.img-box {
+.img-box {
   width: 30%;
   height: 30%;
+	margin: 0;
+	border-color: white;
+	border-style: solid;
+	border-width: thick;
 	}
 
-	.contain {
+.contain {
   object-fit: contain; }
-}
